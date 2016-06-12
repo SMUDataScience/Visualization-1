@@ -1,0 +1,3 @@
+enum Alignment {
+  TOP, BOTTOM
+};
