@@ -1,9 +1,10 @@
+// Ira Greenberg Based on 
+// Example from Dan Shiffman
 // The Nature of Code
-// Daniel Shiffman
 // http://natureofcode.com
 
 // Recursive Tree
-// Renders a simple tree-like structure via recursion
+// Renders a tree-like structure via recursion
 // Branching angle calculated as a function of horizontal mouse location
 
 float theta, subTheta; 
